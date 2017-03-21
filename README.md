@@ -9,5 +9,3 @@ Install from the plugin manager or manually using this URL:
 
     https://github.com/ntoff/OctoPrint-M84MotOff/archive/master.zip
 
-## Activate
-Once installed, cycle the connection to your printer (disconnect and reconnect) to activate it (or restart octoprint).
